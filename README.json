@@ -1,0 +1,732 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T18:17:27Z",
+            "owner": "SeleniumHQ",
+            "repo": "selenium",
+            "stars": 34368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WD",
+          "description": "WebDriver/Selenium 2 node.js client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-13T19:26:36Z",
+            "owner": "admc",
+            "repo": "wd",
+            "stars": 1520
+          }
+        }
+      ],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anemone",
+          "description": "Anemone web-spider framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-03-20T11:27:38Z",
+            "owner": "chriskite",
+            "repo": "anemone",
+            "stars": 1600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spidr",
+          "description": "web spidering library that can spider a site, multiple domains, certain links or infinitely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-12T09:23:16Z",
+            "owner": "postmodern",
+            "repo": "spidr",
+            "stars": 835
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Facebook WebDriver",
+          "description": "A PHP client for webdriver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T12:36:03Z",
+            "owner": "php-webdriver",
+            "repo": "php-webdriver",
+            "stars": 5200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steward",
+          "description": "A test runner integrating php-webdriver with PHPUnit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-16T10:07:10Z",
+            "owner": "lmc-eu",
+            "repo": "steward",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenium Setup",
+          "description": "A tool for PHP developers to start their own Selenium server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-03-15T13:02:52Z",
+            "owner": "bogdananton",
+            "repo": "Selenium-Setup",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Helium",
+          "description": "Helium makes Selenium easier and faster to use",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:25:19Z",
+            "owner": "mherrmann",
+            "repo": "helium",
+            "stars": 8326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selene",
+          "description": "Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:45:44Z",
+            "owner": "yashaka",
+            "repo": "selene",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "behave-webdriver",
+          "description": "behavior driven testing with Selenium and Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-11T20:26:49Z",
+            "owner": "spyoungtech",
+            "repo": "behave-webdriver",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebDriverManager",
+          "description": "Automatic management of Selenium WebDriver binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T12:14:22Z",
+            "owner": "bonigarcia",
+            "repo": "webdrivermanager",
+            "stars": 2687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenide",
+          "description": "A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T07:58:55Z",
+            "owner": "selenide",
+            "repo": "selenide",
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seleniumQuery",
+          "description": "jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-12T01:58:01Z",
+            "owner": "seleniumQuery",
+            "repo": "seleniumQuery",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightning",
+          "description": "Lightweight and lightning fast WebDriver client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-11T09:14:17Z",
+            "owner": "aerokube",
+            "repo": "lightning-java",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darcy",
+          "description": "Page object framework for structured, maintainable automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-04-22T09:27:07Z",
+            "owner": "darcy-framework",
+            "repo": "darcy-webdriver",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Atata",
+          "description": "Automated web testing full featured framework based on Selenium WebDriver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T08:40:52Z",
+            "owner": "atata-framework",
+            "repo": "atata",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strontium",
+          "description": "A .NET implementation (but outdated) for Selenium/WebDriver (Remote) Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-01-23T14:26:59Z",
+            "owner": "jimevans",
+            "repo": "strontium",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebdriverCSS",
+          "description": "Regression testing tool for WebdriverIO (currently deprecated, please use wdio-screenshot for the time being).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-24T18:19:15Z",
+            "owner": "webdriverio-boneyard",
+            "repo": "webdrivercss",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Website-Diff",
+          "description": "Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T10:34:26Z",
+            "owner": "GeiserX",
+            "repo": "Wayback-Diff",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "CSS Regression Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Containers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeleniumHQ/docker-selenium",
+          "description": "Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T22:09:23Z",
+            "owner": "SeleniumHQ",
+            "repo": "docker-selenium",
+            "stars": 8646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenoid",
+          "description": "A lightweight Selenium hub implementation launching browsers in Docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-12-17T12:13:37Z",
+            "owner": "aerokube",
+            "repo": "selenoid",
+            "stars": 2655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zalando/zalenium",
+          "description": "Allows anyone to have a disposable and flexible Selenium Grid infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-09-11T10:00:37Z",
+            "owner": "zalando",
+            "repo": "zalenium",
+            "stars": 2363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elgalu/docker-selenium",
+          "description": "Selenium in Docker with Chrome & Firefox plus video recording support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-06-30T16:08:37Z",
+            "owner": "elgalu",
+            "repo": "docker-selenium",
+            "stars": 1413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ggr",
+          "description": "A lightweight load balancer used to create big Selenium clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-12-17T11:55:49Z",
+            "owner": "aerokube",
+            "repo": "ggr",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bravostudiodev/bravo-grid",
+          "description": "Docker image/setup for Selenium Grid Extras (see under Selenium Grid section), for providing remote Sikuli test/automation execution and grid node file upload/download support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-02-28T12:56:04Z",
+            "owner": "bravostudiodev",
+            "repo": "bravo-grid",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Docker"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kubernetes/examples",
+          "description": "Example deployment of Selenium Hub and Nodes on a Kubernetes cluster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-03T17:55:19Z",
+            "owner": "kubernetes",
+            "repo": "examples",
+            "stars": 6680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moon",
+          "description": "A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-03T10:31:12Z",
+            "owner": "aerokube",
+            "repo": "moon",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Callisto",
+          "description": "An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:22:32Z",
+            "owner": "wrike",
+            "repo": "callisto",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGrid",
+          "description": "An open-source, decentralized, scalable and robust selenium-grid equivalent.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-03-04T13:47:26Z",
+            "owner": "TilBlechschmidt",
+            "repo": "WebGrid",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Driver"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firefox",
+          "description": "Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T18:17:27Z",
+            "owner": "SeleniumHQ",
+            "repo": "selenium",
+            "stars": 34368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Internet Explorer",
+          "description": "The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T18:17:27Z",
+            "owner": "SeleniumHQ",
+            "repo": "selenium",
+            "stars": 34368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safari",
+          "description": "The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T18:17:27Z",
+            "owner": "SeleniumHQ",
+            "repo": "selenium",
+            "stars": 34368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geckodriver",
+          "description": "Firefox driver (for FF > v48), supported with Selenium >= v3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T13:19:33Z",
+            "owner": "mozilla",
+            "repo": "geckodriver",
+            "stars": 7479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opera",
+          "description": "OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T13:52:18Z",
+            "owner": "operasoftware",
+            "repo": "operachromiumdriver",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Desktop (browsers)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WinAppDriver",
+          "description": "Microsoft's WebDriver implementation for Windows application automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-14T05:15:46Z",
+            "owner": "microsoft",
+            "repo": "WinAppDriver",
+            "stars": 4045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winium",
+          "description": "Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-20T11:05:50Z",
+            "owner": "2gis",
+            "repo": "Winium",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QtWebDriver",
+          "description": "For using WebDriver to automate Qt-based GUI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-06T12:17:41Z",
+            "owner": "cisco-open-source",
+            "repo": "qtwebdriver",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoItDriverServer",
+          "description": "Selenium server to control/drive AutoIt via (Remote)WebDriver API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-12T08:50:47Z",
+            "owner": "daluu",
+            "repo": "AutoItDriverServer",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoPyDriverServer",
+          "description": "Selenium server to control/drive AutoPy via (Remote)WebDriver API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-01-18T23:30:20Z",
+            "owner": "daluu",
+            "repo": "AutoPyDriverServer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SilkAppDriver",
+          "description": "Selenium server to control/drive the commercial SilkTest platform via (Remote)WebDriver API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-10-09T12:58:50Z",
+            "owner": "MicroFocus",
+            "repo": "SilkAppDriver",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Desktop GUI Automation (non-browser-centric)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Looking Glass",
+          "description": "Java application that offers a cross-browser element inspector and Selenium code generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2016-11-02T17:43:28Z",
+            "owner": "dmolchanenko",
+            "repo": "LookingGlass",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWET",
+          "description": "A successor to SWD Page Recorder, for the same functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-06T22:53:04Z",
+            "owner": "sergueik",
+            "repo": "SWET",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Desktop Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeLion",
+          "description": "A (Java) framework for running Selenium tests with additional features beyond the basic Selenium Grid functionality, particularly like stability improvements, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-23T19:53:35Z",
+            "owner": "paypal",
+            "repo": "SeLion",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenium Grid Extensions",
+          "description": "A set of extensions for Selenium Grid that provide additional features like running Sikuli tests/automation remotely, upload/download files on a grid node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-23T07:44:03Z",
+            "owner": "sterodium",
+            "repo": "selenium-grid-extensions",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenium Grid Extras",
+          "description": "A framework that provides additional features beyond the basic Selenium Grid like video recording.",
+          "children": []
+        }
+      ],
+      "title": "Selenium Grid"
+    },
+    {
+      "description": "To the extent possible under law, Christian Bromann has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:12:14.655Z",
+    "original_repository": "christian-bromann/awesome-selenium",
+    "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
+    "enhanced_repository": "enhansome/enhansome-selenium",
+    "enhanced_repository_description": null,
+    "title": "Awesome Selenium with stars"
+  }
+}
