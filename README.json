@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T17:58:49Z",
+            "last_commit": "2026-08-16T00:14:44Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34382
+            "stars": 34373
           }
         },
         {
@@ -194,7 +194,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T17:40:18Z",
+            "last_commit": "2026-08-16T09:07:25Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1908
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-15T03:32:02Z",
             "owner": "SeleniumHQ",
             "repo": "docker-selenium",
-            "stars": 8646
+            "stars": 8647
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2363
+            "stars": 2362
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-03-03T17:55:19Z",
             "owner": "kubernetes",
             "repo": "examples",
-            "stars": 6680
+            "stars": 6682
           }
         },
         {
@@ -486,10 +486,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T17:58:49Z",
+            "last_commit": "2026-08-16T00:14:44Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34382
+            "stars": 34373
           }
         },
         {
@@ -500,10 +500,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T17:58:49Z",
+            "last_commit": "2026-08-16T00:14:44Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34382
+            "stars": 34373
           }
         },
         {
@@ -514,10 +514,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T17:58:49Z",
+            "last_commit": "2026-08-16T00:14:44Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34382
+            "stars": 34373
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:49:06.590Z",
+    "last_updated": "2026-08-16T22:47:19.392Z",
     "original_repository": "christian-bromann/awesome-selenium",
     "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
     "enhanced_repository": "enhansome/enhansome-selenium",
