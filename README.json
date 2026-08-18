@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:36:39Z",
+            "last_commit": "2026-08-18T10:56:28Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34371
+            "stars": 34375
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-10T07:25:19Z",
             "owner": "mherrmann",
             "repo": "helium",
-            "stars": 8326
+            "stars": 8325
           }
         },
         {
@@ -194,7 +194,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T13:27:39Z",
+            "last_commit": "2026-08-18T20:42:37Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1908
@@ -486,10 +486,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:36:39Z",
+            "last_commit": "2026-08-18T10:56:28Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34371
+            "stars": 34375
           }
         },
         {
@@ -500,10 +500,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:36:39Z",
+            "last_commit": "2026-08-18T10:56:28Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34371
+            "stars": 34375
           }
         },
         {
@@ -514,10 +514,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:36:39Z",
+            "last_commit": "2026-08-18T10:56:28Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34371
+            "stars": 34375
           }
         },
         {
@@ -593,7 +593,7 @@
             "last_commit": "2022-07-06T12:17:41Z",
             "owner": "cisco-open-source",
             "repo": "qtwebdriver",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:51:12.929Z",
+    "last_updated": "2026-08-18T22:52:14.948Z",
     "original_repository": "christian-bromann/awesome-selenium",
     "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
     "enhanced_repository": "enhansome/enhansome-selenium",
