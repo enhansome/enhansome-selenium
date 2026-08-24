@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-23T00:26:56Z",
+                    "last_commit": "2026-08-24T13:20:47Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34386
+                    "stars": 34387
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-08-10T07:25:19Z",
                     "owner": "mherrmann",
                     "repo": "helium",
-                    "stars": 8325
+                    "stars": 8324
                   }
                 },
                 {
@@ -209,7 +209,7 @@
                     "archived": false,
                     "id": 3376848,
                     "language": "Java",
-                    "last_commit": "2026-08-20T10:58:38Z",
+                    "last_commit": "2026-08-24T08:06:54Z",
                     "owner": "selenide",
                     "repo": "selenide",
                     "stars": 1908
@@ -301,6 +301,28 @@
               "description": null,
               "node_type": "group",
               "title": "C#"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dart.webdriver",
+                  "description": "Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11595141,
+                    "language": "Dart",
+                    "last_commit": "2026-06-02T23:17:58Z",
+                    "owner": "google",
+                    "repo": "webdriver.dart",
+                    "stars": 142
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dart"
             }
           ],
           "description": null,
@@ -390,7 +412,7 @@
                     "last_commit": "2021-09-11T10:00:37Z",
                     "owner": "zalando",
                     "repo": "zalenium",
-                    "stars": 2362
+                    "stars": 2363
                   }
                 },
                 {
@@ -405,7 +427,7 @@
                     "last_commit": "2021-06-30T16:08:37Z",
                     "owner": "elgalu",
                     "repo": "docker-selenium",
-                    "stars": 1413
+                    "stars": 1412
                   }
                 },
                 {
@@ -457,7 +479,7 @@
                     "last_commit": "2026-03-03T17:55:19Z",
                     "owner": "kubernetes",
                     "repo": "examples",
-                    "stars": 6684
+                    "stars": 6685
                   }
                 },
                 {
@@ -528,10 +550,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-23T00:26:56Z",
+                    "last_commit": "2026-08-24T13:20:47Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34386
+                    "stars": 34387
                   }
                 },
                 {
@@ -543,10 +565,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-23T00:26:56Z",
+                    "last_commit": "2026-08-24T13:20:47Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34386
+                    "stars": 34387
                   }
                 },
                 {
@@ -558,10 +580,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-23T00:26:56Z",
+                    "last_commit": "2026-08-24T13:20:47Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34386
+                    "stars": 34387
                   }
                 },
                 {
@@ -603,6 +625,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "WebDriverAgent",
+                  "description": "a WebDriver server for iOS to remote control devices via WebDriver API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115991405,
+                    "language": "Objective-C",
+                    "last_commit": "2018-12-14T21:10:50Z",
+                    "owner": "manishPatwari",
+                    "repo": "WebDriverAgent",
+                    "stars": 53
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mobile (browsers and apps)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "WinAppDriver",
                   "description": "Microsoft's WebDriver implementation for Windows application automation.",
                   "children": [],
@@ -613,7 +657,7 @@
                     "last_commit": "2025-04-14T05:15:46Z",
                     "owner": "microsoft",
                     "repo": "WinAppDriver",
-                    "stars": 4045
+                    "stars": 4046
                   }
                 },
                 {
@@ -774,13 +818,57 @@
           "description": null,
           "node_type": "group",
           "title": "Selenium Grid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenSTF",
+              "description": "A framework for running your own device farm, geared toward Android, but also iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246332156,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T11:22:36Z",
+                "owner": "DeviceFarmer",
+                "repo": "stf",
+                "stars": 4540
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Device Farms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node-Crawler",
+              "description": "Node.js Web Crawler/Spider for NodeJS + server-side jQuery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1111874,
+                "language": "TypeScript",
+                "last_commit": "2026-06-18T15:50:22Z",
+                "owner": "bda-research",
+                "repo": "node-crawler",
+                "stars": 6798
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Scraping / Mining"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:49:01.464Z",
+    "last_updated": "2026-08-24T14:12:22.663Z",
     "original_repository": "christian-bromann/awesome-selenium",
     "original_repository_id": 22268536,
     "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
