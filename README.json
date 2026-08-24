@@ -16,7 +16,7 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:20:47Z",
+                    "last_commit": "2026-08-24T17:30:03Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
                     "stars": 34387
@@ -550,7 +550,7 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:20:47Z",
+                    "last_commit": "2026-08-24T17:30:03Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
                     "stars": 34387
@@ -565,7 +565,7 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:20:47Z",
+                    "last_commit": "2026-08-24T17:30:03Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
                     "stars": 34387
@@ -580,7 +580,7 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:20:47Z",
+                    "last_commit": "2026-08-24T17:30:03Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
                     "stars": 34387
@@ -830,7 +830,7 @@
                 "archived": false,
                 "id": 246332156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:22:36Z",
+                "last_commit": "2026-08-24T16:35:38Z",
                 "owner": "DeviceFarmer",
                 "repo": "stf",
                 "stars": 4540
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:22.663Z",
+    "last_updated": "2026-08-24T22:54:22.615Z",
     "original_repository": "christian-bromann/awesome-selenium",
     "original_repository_id": 22268536,
     "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
