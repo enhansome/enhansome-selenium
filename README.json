@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-25T19:48:58Z",
+                    "last_commit": "2026-08-27T03:15:28Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34392
+                    "stars": 34400
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-08-10T07:25:19Z",
                     "owner": "mherrmann",
                     "repo": "helium",
-                    "stars": 8322
+                    "stars": 8323
                   }
                 },
                 {
@@ -382,7 +382,7 @@
                     "last_commit": "2026-08-25T21:55:02Z",
                     "owner": "SeleniumHQ",
                     "repo": "docker-selenium",
-                    "stars": 8646
+                    "stars": 8647
                   }
                 },
                 {
@@ -479,7 +479,7 @@
                     "last_commit": "2026-03-03T17:55:19Z",
                     "owner": "kubernetes",
                     "repo": "examples",
-                    "stars": 6686
+                    "stars": 6687
                   }
                 },
                 {
@@ -550,10 +550,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-25T19:48:58Z",
+                    "last_commit": "2026-08-27T03:15:28Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34392
+                    "stars": 34400
                   }
                 },
                 {
@@ -565,10 +565,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-25T19:48:58Z",
+                    "last_commit": "2026-08-27T03:15:28Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34392
+                    "stars": 34400
                   }
                 },
                 {
@@ -580,10 +580,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-25T19:48:58Z",
+                    "last_commit": "2026-08-27T03:15:28Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34392
+                    "stars": 34400
                   }
                 },
                 {
@@ -830,7 +830,7 @@
                 "archived": false,
                 "id": 246332156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T17:37:41Z",
+                "last_commit": "2026-08-27T00:55:34Z",
                 "owner": "DeviceFarmer",
                 "repo": "stf",
                 "stars": 4541
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:56:17.703Z",
+    "last_updated": "2026-08-27T03:28:19.223Z",
     "original_repository": "christian-bromann/awesome-selenium",
     "original_repository_id": 22268536,
     "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
