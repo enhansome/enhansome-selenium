@@ -16,11 +16,12 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-27T03:15:28Z",
+                    "last_commit": "2026-08-28T03:24:23Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34402
-                  }
+                    "stars": 34406
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "admc",
                     "repo": "wd",
                     "stars": 1521
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -57,7 +59,8 @@
                     "owner": "chriskite",
                     "repo": "anemone",
                     "stars": 1600
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "postmodern",
                     "repo": "spidr",
                     "stars": 836
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -94,7 +98,8 @@
                     "owner": "php-webdriver",
                     "repo": "php-webdriver",
                     "stars": 5200
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -109,7 +114,8 @@
                     "owner": "lmc-eu",
                     "repo": "steward",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -124,7 +130,8 @@
                     "owner": "bogdananton",
                     "repo": "Selenium-Setup",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -145,8 +152,9 @@
                     "last_commit": "2026-08-10T07:25:19Z",
                     "owner": "mherrmann",
                     "repo": "helium",
-                    "stars": 8322
-                  }
+                    "stars": 8323
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +169,8 @@
                     "owner": "yashaka",
                     "repo": "selene",
                     "stars": 733
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +185,8 @@
                     "owner": "spyoungtech",
                     "repo": "behave-webdriver",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -194,11 +204,12 @@
                     "archived": false,
                     "id": 32280638,
                     "language": "Java",
-                    "last_commit": "2026-08-27T06:04:08Z",
+                    "last_commit": "2026-08-28T02:39:40Z",
                     "owner": "bonigarcia",
                     "repo": "webdrivermanager",
                     "stars": 2686
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -213,7 +224,8 @@
                     "owner": "selenide",
                     "repo": "selenide",
                     "stars": 1909
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -228,7 +240,8 @@
                     "owner": "seleniumQuery",
                     "repo": "seleniumQuery",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "aerokube",
                     "repo": "lightning-java",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +272,8 @@
                     "owner": "darcy-framework",
                     "repo": "darcy-webdriver",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -280,7 +295,8 @@
                     "owner": "atata-framework",
                     "repo": "atata",
                     "stars": 502
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "jimevans",
                     "repo": "strontium",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -317,7 +334,8 @@
                     "owner": "google",
                     "repo": "webdriver.dart",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -344,7 +362,8 @@
                 "owner": "webdriverio-boneyard",
                 "repo": "webdrivercss",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             },
             {
               "node_type": "item",
@@ -359,7 +378,8 @@
                 "owner": "GeiserX",
                 "repo": "Wayback-Diff",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             }
           ],
           "description": null,
@@ -383,7 +403,8 @@
                     "owner": "SeleniumHQ",
                     "repo": "docker-selenium",
                     "stars": 8646
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -398,7 +419,8 @@
                     "owner": "aerokube",
                     "repo": "selenoid",
                     "stars": 2654
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -413,7 +435,8 @@
                     "owner": "zalando",
                     "repo": "zalenium",
                     "stars": 2362
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -428,7 +451,8 @@
                     "owner": "elgalu",
                     "repo": "docker-selenium",
                     "stars": 1412
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -443,7 +467,8 @@
                     "owner": "aerokube",
                     "repo": "ggr",
                     "stars": 310
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -458,7 +483,8 @@
                     "owner": "bravostudiodev",
                     "repo": "bravo-grid",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -480,7 +506,8 @@
                     "owner": "kubernetes",
                     "repo": "examples",
                     "stars": 6688
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -495,7 +522,8 @@
                     "owner": "aerokube",
                     "repo": "moon",
                     "stars": 279
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -510,7 +538,8 @@
                     "owner": "wrike",
                     "repo": "callisto",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -525,7 +554,8 @@
                     "owner": "TilBlechschmidt",
                     "repo": "WebGrid",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -550,11 +580,12 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-27T03:15:28Z",
+                    "last_commit": "2026-08-28T03:24:23Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34402
-                  }
+                    "stars": 34406
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -565,11 +596,12 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-27T03:15:28Z",
+                    "last_commit": "2026-08-28T03:24:23Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34402
-                  }
+                    "stars": 34406
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -580,11 +612,12 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-27T03:15:28Z",
+                    "last_commit": "2026-08-28T03:24:23Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34402
-                  }
+                    "stars": 34406
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -599,7 +632,8 @@
                     "owner": "mozilla",
                     "repo": "geckodriver",
                     "stars": 7479
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -614,7 +648,8 @@
                     "owner": "operasoftware",
                     "repo": "operachromiumdriver",
                     "stars": 268
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -636,7 +671,8 @@
                     "owner": "manishPatwari",
                     "repo": "WebDriverAgent",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -658,7 +694,8 @@
                     "owner": "microsoft",
                     "repo": "WinAppDriver",
                     "stars": 4046
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -673,7 +710,8 @@
                     "owner": "2gis",
                     "repo": "Winium",
                     "stars": 399
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -688,7 +726,8 @@
                     "owner": "cisco-open-source",
                     "repo": "qtwebdriver",
                     "stars": 200
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -703,7 +742,8 @@
                     "owner": "daluu",
                     "repo": "AutoItDriverServer",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -718,7 +758,8 @@
                     "owner": "daluu",
                     "repo": "AutoPyDriverServer",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 },
                 {
                   "node_type": "item",
@@ -733,7 +774,8 @@
                     "owner": "MicroFocus",
                     "repo": "SilkAppDriver",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:14:07.958Z"
                 }
               ],
               "description": null,
@@ -760,7 +802,8 @@
                 "owner": "dmolchanenko",
                 "repo": "LookingGlass",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             },
             {
               "node_type": "item",
@@ -775,7 +818,8 @@
                 "owner": "sergueik",
                 "repo": "SWET",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             }
           ],
           "description": null,
@@ -797,7 +841,8 @@
                 "owner": "paypal",
                 "repo": "SeLion",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             },
             {
               "node_type": "item",
@@ -812,7 +857,8 @@
                 "owner": "sterodium",
                 "repo": "selenium-grid-extensions",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             }
           ],
           "description": null,
@@ -830,11 +876,12 @@
                 "archived": false,
                 "id": 246332156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:47:24Z",
+                "last_commit": "2026-08-28T04:01:50Z",
                 "owner": "DeviceFarmer",
                 "repo": "stf",
                 "stars": 4541
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             }
           ],
           "description": null,
@@ -856,7 +903,8 @@
                 "owner": "bda-research",
                 "repo": "node-crawler",
                 "stars": 6799
-              }
+              },
+              "first_seen": "2026-08-28T06:14:07.958Z"
             }
           ],
           "description": null,
@@ -868,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:40.884Z",
+    "last_updated": "2026-08-28T06:14:07.958Z",
     "original_repository_info": {
       "archived": false,
       "id": 22268536,
