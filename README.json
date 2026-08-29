@@ -14,12 +14,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser automation framework and ecosystem.",
+                    "homepage": "https://selenium.dev",
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-28T03:24:23Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:51:27Z",
+                    "open_issues": 189,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34406
+                    "stars": 34417,
+                    "topics": [
+                      "dotnet",
+                      "java",
+                      "javascript",
+                      "python",
+                      "ruby",
+                      "rust",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -30,12 +44,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A node.js client for webdriver/selenium 2.",
+                    "homepage": null,
                     "id": 1669923,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-13T19:26:36Z",
+                    "open_issues": 72,
                     "owner": "admc",
                     "repo": "wd",
-                    "stars": 1521
+                    "stars": 1521,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -53,12 +72,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Anemone web-spider framework",
+                    "homepage": "http://anemone.rubyforge.org",
                     "id": 175761,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2020-03-20T11:27:38Z",
+                    "open_issues": 50,
                     "owner": "chriskite",
                     "repo": "anemone",
-                    "stars": 1600
+                    "stars": 1600,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -69,12 +93,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.",
+                    "homepage": null,
                     "id": 145726,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-01-12T09:23:16Z",
+                    "open_issues": 16,
                     "owner": "postmodern",
                     "repo": "spidr",
-                    "stars": 836
+                    "stars": 836,
+                    "topics": [
+                      "crawler",
+                      "ruby",
+                      "scraper",
+                      "spider",
+                      "spider-links",
+                      "web",
+                      "web-crawler",
+                      "web-scraper",
+                      "web-scraping",
+                      "web-spider"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -92,12 +132,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver",
+                    "homepage": null,
                     "id": 2272514,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T12:20:47Z",
+                    "open_issues": 30,
                     "owner": "php-webdriver",
                     "repo": "php-webdriver",
-                    "stars": 5200
+                    "stars": 5200,
+                    "topics": [
+                      "php-webdriver",
+                      "selenium",
+                      "selenium-php",
+                      "selenium-webdriver",
+                      "w3c-webdriver",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -108,12 +160,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PHP libraries that makes Selenium WebDriver + PHPUnit functional testing easy and robust",
+                    "homepage": null,
                     "id": 35304655,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2024-08-16T10:07:10Z",
+                    "open_issues": 20,
                     "owner": "lmc-eu",
                     "repo": "steward",
-                    "stars": 222
+                    "stars": 222,
+                    "topics": [
+                      "php",
+                      "php-webdriver",
+                      "phpunit",
+                      "selenium",
+                      "selenium-webdriver",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -124,12 +188,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Start your own Selenium test server with Chrome, Firefox and Internet Explorer drivers.",
+                    "homepage": "http://seleniumsetup.org",
                     "id": 41171850,
                     "language": "PHP",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-03-15T13:02:52Z",
+                    "open_issues": 5,
                     "owner": "bogdananton",
                     "repo": "Selenium-Setup",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -147,12 +216,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lighter web automation with Python",
+                    "homepage": null,
                     "id": 224234024,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T07:25:19Z",
+                    "open_issues": 55,
                     "owner": "mherrmann",
                     "repo": "helium",
-                    "stars": 8323
+                    "stars": 8323,
+                    "topics": [
+                      "chrome",
+                      "firefox",
+                      "helium",
+                      "python",
+                      "python3",
+                      "selenium",
+                      "selenium-python",
+                      "web-automation",
+                      "web-scraping",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -163,12 +248,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User-oriented Web UI browser tests in Python",
+                    "homepage": "https://yashaka.github.io/selene/",
                     "id": 34106396,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-09T20:45:44Z",
+                    "open_issues": 123,
                     "owner": "yashaka",
                     "repo": "selene",
-                    "stars": 733
+                    "stars": 733,
+                    "topics": [
+                      "automation",
+                      "e2e-testing",
+                      "python",
+                      "selene",
+                      "selenide",
+                      "selenium",
+                      "testing",
+                      "web",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -179,12 +279,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Selenium webdriver step library for use with the behave BDD testing framework",
+                    "homepage": null,
                     "id": 106575900,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-11T20:26:49Z",
+                    "open_issues": 16,
                     "owner": "spyoungtech",
                     "repo": "behave-webdriver",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "bdd",
+                      "behave",
+                      "browser",
+                      "browser-automation",
+                      "headless-chrome",
+                      "headless-testing",
+                      "python",
+                      "qa",
+                      "quality-assurance",
+                      "selenium",
+                      "selenium-webdriver",
+                      "testing",
+                      "webdriver",
+                      "webdriverio"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -202,12 +322,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated driver management and other helper features for Selenium WebDriver in Java",
+                    "homepage": "http://bonigarcia.dev/webdrivermanager/",
                     "id": 32280638,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T02:39:40Z",
+                    "open_issues": 0,
                     "owner": "bonigarcia",
                     "repo": "webdrivermanager",
-                    "stars": 2686
+                    "stars": 2687,
+                    "topics": [
+                      "chromedriver",
+                      "docker",
+                      "geckodriver",
+                      "java",
+                      "maven",
+                      "selenium",
+                      "selenium-webdriver",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -218,12 +352,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Concise UI Tests with Java!",
+                    "homepage": "http://selenide.org",
                     "id": 3376848,
                     "language": "Java",
-                    "last_commit": "2026-08-27T07:54:05Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T20:36:43Z",
+                    "open_issues": 33,
                     "owner": "selenide",
                     "repo": "selenide",
-                    "stars": 1909
+                    "stars": 1910,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -234,12 +373,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "jQuery-like cross-driver interface in Java for Selenium WebDriver",
+                    "homepage": "http://seleniumquery.github.io/",
                     "id": 11772284,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-12T01:58:01Z",
+                    "open_issues": 2,
                     "owner": "seleniumQuery",
                     "repo": "seleniumQuery",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "java",
+                      "jquery",
+                      "selenium",
+                      "selenium-webdriver",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -250,12 +400,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight and lightning fast Java WebDriver client for test automation professionals",
+                    "homepage": null,
                     "id": 404206516,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-11T09:14:17Z",
+                    "open_issues": 8,
                     "owner": "aerokube",
                     "repo": "lightning-java",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "client",
+                      "java",
+                      "lightning",
+                      "lightweight",
+                      "professional",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -266,12 +429,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An implementation of darcy-web that uses Selenium WebDriver as the automation library backend.",
+                    "homepage": null,
                     "id": 18268807,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-04-22T09:27:07Z",
+                    "open_issues": 10,
                     "owner": "darcy-framework",
                     "repo": "darcy-webdriver",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -289,12 +457,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C#/.NET test automation framework for web",
+                    "homepage": "https://atata.io",
                     "id": 49573656,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T13:56:35Z",
+                    "open_issues": 10,
                     "owner": "atata-framework",
                     "repo": "atata",
-                    "stars": 502
+                    "stars": 502,
+                    "topics": [
+                      "atata",
+                      "automated-testing",
+                      "csharp",
+                      "dotnet",
+                      "framework",
+                      "pageobject",
+                      "selenium",
+                      "selenium-webdriver",
+                      "test-automation",
+                      "test-framework",
+                      "testing",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -305,12 +491,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A .NET implementation of a Selenium WebDriver Remote Server",
+                    "homepage": null,
                     "id": 7743059,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2013-01-23T14:26:59Z",
+                    "open_issues": 0,
                     "owner": "jimevans",
                     "repo": "strontium",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -328,12 +519,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dart WebDriver client",
+                    "homepage": "https://pub.dev/packages/webdriver",
                     "id": 11595141,
                     "language": "Dart",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-02T23:17:58Z",
+                    "open_issues": 27,
                     "owner": "google",
                     "repo": "webdriver.dart",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": [
+                      "dart",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -356,12 +555,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Regression testing tool for WebdriverIO v4",
+                "homepage": "http://webdriver.io",
                 "id": 18198033,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-24T18:19:15Z",
+                "open_issues": 53,
                 "owner": "webdriverio-boneyard",
                 "repo": "webdrivercss",
-                "stars": 608
+                "stars": 608,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             },
@@ -372,12 +576,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intelligent web page comparison tool with Wayback Machine support and visual regression testing",
+                "homepage": null,
                 "id": 1115690934,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T15:43:39Z",
+                "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "Wayback-Diff",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "change-detection",
+                  "diff",
+                  "digital-preservation",
+                  "html-diff",
+                  "internet-archive",
+                  "migration-tool",
+                  "python",
+                  "quality-assurance",
+                  "screenshot",
+                  "selenium",
+                  "side-by-side",
+                  "visual-comparison",
+                  "wayback-diff",
+                  "wayback-machine",
+                  "web-archiving",
+                  "web-comparison",
+                  "web-scraping",
+                  "web-testing",
+                  "website-migration",
+                  "website-monitoring"
+                ]
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             }
@@ -397,12 +627,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale",
+                    "homepage": "http://www.selenium.dev/docker-selenium/",
                     "id": 26768643,
                     "language": "Go",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T21:55:02Z",
+                    "open_issues": 88,
                     "owner": "SeleniumHQ",
                     "repo": "docker-selenium",
-                    "stars": 8646
+                    "stars": 8647,
+                    "topics": [
+                      "containerization",
+                      "devops",
+                      "distributed-systems",
+                      "docker",
+                      "docker-selenium-grid",
+                      "helm-chart",
+                      "keda",
+                      "kubernetes",
+                      "kubernetes-selenium-grid",
+                      "selenium",
+                      "selenium-grid",
+                      "selenium-grid-4",
+                      "selenium-grid-setup",
+                      "selenium-server",
+                      "tools-and-automation",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -413,12 +665,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.",
+                    "homepage": "https://aerokube.com/selenoid/latest/",
                     "id": 66257173,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-17T12:13:37Z",
+                    "open_issues": 0,
                     "owner": "aerokube",
                     "repo": "selenoid",
-                    "stars": 2654
+                    "stars": 2654,
+                    "topics": [
+                      "docker",
+                      "grid",
+                      "hub",
+                      "selenium",
+                      "selenium-grid",
+                      "selenium-server",
+                      "selenium-webdriver",
+                      "vnc"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -429,12 +695,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.",
+                    "homepage": "https://opensource.zalando.com/zalenium/",
                     "id": 69958211,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-11T10:00:37Z",
+                    "open_issues": 36,
                     "owner": "zalando",
                     "repo": "zalenium",
-                    "stars": 2362
+                    "stars": 2361,
+                    "topics": [
+                      "browserstack",
+                      "docker",
+                      "docker-selenium",
+                      "kubernetes",
+                      "saucelabs",
+                      "selenium",
+                      "selenium-grid",
+                      "testing",
+                      "testingbot"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -445,12 +726,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[NOT MAINTAINED] Please use <https://github.com/SeleniumHQ/docker-selenium>",
+                    "homepage": "https://github.com/SeleniumHQ/docker-selenium",
                     "id": 21655399,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-06-30T16:08:37Z",
+                    "open_issues": 35,
                     "owner": "elgalu",
                     "repo": "docker-selenium",
-                    "stars": 1412
+                    "stars": 1412,
+                    "topics": [
+                      "chrome",
+                      "docker-selenium",
+                      "firefox",
+                      "headless",
+                      "selenium-grid",
+                      "selenium-server",
+                      "video-recording",
+                      "vnc"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -461,12 +756,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A lightweight load balancer used to create big Selenium clusters",
+                    "homepage": "https://aerokube.com/ggr/latest/",
                     "id": 61305371,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-17T11:55:49Z",
+                    "open_issues": 0,
                     "owner": "aerokube",
                     "repo": "ggr",
-                    "stars": 310
+                    "stars": 310,
+                    "topics": [
+                      "ggr",
+                      "grid-router",
+                      "selenium"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -477,12 +781,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Selenium grid docker images with extensions for sikuli and file transfer",
+                    "homepage": null,
                     "id": 82550216,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2018-02-28T12:56:04Z",
+                    "open_issues": 2,
                     "owner": "bravostudiodev",
                     "repo": "bravo-grid",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "docker-selenium",
+                      "selenium",
+                      "selenium-grid",
+                      "sikuli"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -500,12 +814,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kubernetes application example tutorials",
+                    "homepage": null,
                     "id": 88664721,
                     "language": "Shell",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-03T17:55:19Z",
+                    "open_issues": 3,
                     "owner": "kubernetes",
                     "repo": "examples",
-                    "stars": 6688
+                    "stars": 6687,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -516,12 +835,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress",
+                    "homepage": "http://aerokube.com/moon/latest",
                     "id": 103610128,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-03T10:31:12Z",
+                    "open_issues": 84,
                     "owner": "aerokube",
                     "repo": "moon",
-                    "stars": 279
+                    "stars": 279,
+                    "topics": [
+                      "chrome-devtools-protocol",
+                      "cypress-io",
+                      "kubernetes",
+                      "moon",
+                      "on-premises",
+                      "openshift",
+                      "playwright",
+                      "puppeteer",
+                      "selenium",
+                      "selenium-grid",
+                      "selenium-webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -532,12 +868,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Callisto is an open-source Kubernetes-native implementation of Selenium Grid.",
+                    "homepage": null,
                     "id": 240512994,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T09:22:32Z",
+                    "open_issues": 6,
                     "owner": "wrike",
                     "repo": "callisto",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": [
+                      "kubernetes",
+                      "python",
+                      "selenium",
+                      "selenium-grid",
+                      "selenium-server",
+                      "selenoid",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -548,12 +897,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Decentralized, scalable and robust implementation of a selenium-grid equivalent. Based on the WebDriver specification by the W3C.",
+                    "homepage": null,
                     "id": 249260119,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2024-03-04T13:47:26Z",
+                    "open_issues": 14,
                     "owner": "TilBlechschmidt",
                     "repo": "WebGrid",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "docker",
+                      "helm-chart",
+                      "kubernetes",
+                      "rust",
+                      "scaleable",
+                      "selenium",
+                      "selenium-grid",
+                      "selenium-node",
+                      "w3c",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -578,12 +943,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser automation framework and ecosystem.",
+                    "homepage": "https://selenium.dev",
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-28T03:24:23Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:51:27Z",
+                    "open_issues": 189,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34406
+                    "stars": 34417,
+                    "topics": [
+                      "dotnet",
+                      "java",
+                      "javascript",
+                      "python",
+                      "ruby",
+                      "rust",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -594,12 +973,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser automation framework and ecosystem.",
+                    "homepage": "https://selenium.dev",
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-28T03:24:23Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:51:27Z",
+                    "open_issues": 189,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34406
+                    "stars": 34417,
+                    "topics": [
+                      "dotnet",
+                      "java",
+                      "javascript",
+                      "python",
+                      "ruby",
+                      "rust",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -610,12 +1003,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser automation framework and ecosystem.",
+                    "homepage": "https://selenium.dev",
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-28T03:24:23Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:51:27Z",
+                    "open_issues": 189,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34406
+                    "stars": 34417,
+                    "topics": [
+                      "dotnet",
+                      "java",
+                      "javascript",
+                      "python",
+                      "ruby",
+                      "rust",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -626,12 +1033,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebDriver Classic proxy for automating Firefox through Marionette",
+                    "homepage": "https://firefox-source-docs.mozilla.org/testing/geckodriver/",
                     "id": 25354393,
                     "language": null,
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-25T12:00:44Z",
+                    "open_issues": 191,
                     "owner": "mozilla",
                     "repo": "geckodriver",
-                    "stars": 7479
+                    "stars": 7480,
+                    "topics": [
+                      "firefox",
+                      "gecko",
+                      "geckodriver",
+                      "rust",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -642,12 +1060,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OperaDriver for Chromium-based Opera releases",
+                    "homepage": null,
                     "id": 25309237,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-06T13:52:18Z",
+                    "open_issues": 78,
                     "owner": "operasoftware",
                     "repo": "operachromiumdriver",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -665,12 +1088,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A WebDriver server for iOS that runs inside the Simulator.",
+                    "homepage": null,
                     "id": 115991405,
                     "language": "Objective-C",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-12-14T21:10:50Z",
+                    "open_issues": 12,
                     "owner": "manishPatwari",
                     "repo": "WebDriverAgent",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -688,12 +1116,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Windows Application Driver",
+                    "homepage": null,
                     "id": 54308403,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-04-14T05:15:46Z",
+                    "open_issues": 1155,
                     "owner": "microsoft",
                     "repo": "WinAppDriver",
-                    "stars": 4046
+                    "stars": 4046,
+                    "topics": [
+                      "appium",
+                      "test-automation",
+                      "ui-testing",
+                      "windows-10"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -704,12 +1142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automation framework for Windows platforms",
+                    "homepage": null,
                     "id": 32520601,
                     "language": "C#",
+                    "license": "MPL-2.0",
                     "last_commit": "2023-12-20T11:05:50Z",
+                    "open_issues": 95,
                     "owner": "2gis",
                     "repo": "Winium",
-                    "stars": 399
+                    "stars": 399,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -720,12 +1163,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebDriver implementation for Qt",
+                    "homepage": "https://github.com/cisco-open-source/qtwebdriver/wiki",
                     "id": 25865920,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2022-07-06T12:17:41Z",
+                    "open_issues": 27,
                     "owner": "cisco-open-source",
                     "repo": "qtwebdriver",
-                    "stars": 200
+                    "stars": 200,
+                    "topics": [
+                      "docker",
+                      "qml",
+                      "qt",
+                      "qtwebkit",
+                      "qtwidget",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -736,12 +1192,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AutoIt through WebDriver or a webdriver-compatible server for AutoIt",
+                    "homepage": null,
                     "id": 29114373,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2016-01-12T08:50:47Z",
+                    "open_issues": 7,
                     "owner": "daluu",
                     "repo": "AutoItDriverServer",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -752,12 +1213,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AutoPy through WebDriver or a webdriver-compatible server for AutoPy",
+                    "homepage": null,
                     "id": 28731943,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2015-01-18T23:30:20Z",
+                    "open_issues": 2,
                     "owner": "daluu",
                     "repo": "AutoPyDriverServer",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 },
@@ -768,12 +1234,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Silk AppDriver is an implementation of the W3C WebDriver protocol for native (Windows) and mobile (Android and iOS) applications, built on top of Silk Test.",
+                    "homepage": null,
                     "id": 103626934,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-10-09T12:58:50Z",
+                    "open_issues": 0,
                     "owner": "MicroFocus",
                     "repo": "SilkAppDriver",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "selenium",
+                      "silktest",
+                      "testing",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
                 }
@@ -796,12 +1272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser independent HTML Element browser.",
+                "homepage": null,
                 "id": 18117154,
                 "language": "Groovy",
+                "license": "NOASSERTION",
                 "last_commit": "2016-11-02T17:43:28Z",
+                "open_issues": 3,
                 "owner": "dmolchanenko",
                 "repo": "LookingGlass",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             },
@@ -812,12 +1293,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Selenium WebDriver Page Test  / workflow recorder (successor to SWD recorder)",
+                "homepage": null,
                 "id": 87974868,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-07-06T22:53:04Z",
+                "open_issues": 4,
                 "owner": "sergueik",
                 "repo": "SWET",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "ide",
+                  "recording",
+                  "selenium",
+                  "swt"
+                ]
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             }
@@ -835,12 +1326,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enabling Test Automation in Java",
+                "homepage": "http://selion.io",
                 "id": 22930887,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-23T19:53:35Z",
+                "open_issues": 31,
                 "owner": "paypal",
                 "repo": "SeLion",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "android",
+                  "appium",
+                  "framework",
+                  "ios",
+                  "ios-driver",
+                  "java",
+                  "selendroid",
+                  "selenium",
+                  "selenium-grid",
+                  "selenium-java",
+                  "selion",
+                  "selion-dataproviders",
+                  "selion-grid",
+                  "testing",
+                  "testng",
+                  "webdriver"
+                ]
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             },
@@ -851,12 +1364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of Selenium Grid extensions for a better UI tests.",
+                "homepage": null,
                 "id": 43682339,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-23T07:44:03Z",
+                "open_issues": 3,
                 "owner": "sterodium",
                 "repo": "selenium-grid-extensions",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             }
@@ -874,12 +1392,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control and manage Android devices from your browser.",
+                "homepage": "https://devicefarmer.github.io",
                 "id": 246332156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T04:01:50Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:23:57Z",
+                "open_issues": 179,
                 "owner": "DeviceFarmer",
                 "repo": "stf",
-                "stars": 4541
+                "stars": 4544,
+                "topics": [
+                  "android",
+                  "debugging",
+                  "hacktoberfest",
+                  "remote-control",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             }
@@ -897,12 +1426,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Crawler/Spider for NodeJS + server-side jQuery ;-)",
+                "homepage": null,
                 "id": 1111874,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-18T15:50:22Z",
+                "open_issues": 29,
                 "owner": "bda-research",
                 "repo": "node-crawler",
-                "stars": 6799
+                "stars": 6798,
+                "topics": [
+                  "cheerio",
+                  "crawler",
+                  "extract-data",
+                  "javascript",
+                  "jquery",
+                  "nodejs",
+                  "spider"
+                ]
               },
               "first_seen": "2026-08-28T06:14:07.958Z"
             }
@@ -916,15 +1458,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:14:07.958Z",
+    "last_updated": "2026-08-29T03:48:28.674Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of delightful Selenium resources.",
+      "homepage": null,
       "id": 22268536,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-17T19:57:25Z",
+      "open_issues": 6,
       "owner": "christian-bromann",
       "repo": "awesome-selenium",
-      "stars": 1130
+      "stars": 1130,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list"
+      ]
     },
     "original_repository_sha": "1c1380f5fa8f84095a2596f81d73b1e6bc5215cb",
     "enhanced_repository": "enhansome/enhansome-selenium",
