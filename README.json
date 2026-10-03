@@ -23,7 +23,7 @@
                     "open_issues": 193,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34516,
+                    "stars": 34518,
                     "topics": [
                       "dotnet",
                       "java",
@@ -952,7 +952,7 @@
                     "open_issues": 193,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34516,
+                    "stars": 34518,
                     "topics": [
                       "dotnet",
                       "java",
@@ -982,7 +982,7 @@
                     "open_issues": 193,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34516,
+                    "stars": 34518,
                     "topics": [
                       "dotnet",
                       "java",
@@ -1012,7 +1012,7 @@
                     "open_issues": 193,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34516,
+                    "stars": 34518,
                     "topics": [
                       "dotnet",
                       "java",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:18:50.008Z",
+    "last_updated": "2026-10-03T05:06:35.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Selenium resources.",
