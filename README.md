@@ -2,7 +2,7 @@
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,375 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,808 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Resources
 
@@ -22,8 +22,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,375 |
 
 #### Javascript
 
-* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,522 | 🐛 190 | 🌐 Java | 📅 2026-10-09 - The official WebDriver JavaScript bindings from the Selenium project.
-* [WD](https://github.com/admc/wd) ⭐ 1,521 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-13 - WebDriver/Selenium 2 node.js client.
+* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,522 | 🐛 186 | 🌐 Java | 📅 2026-10-10 - The official WebDriver JavaScript bindings from the Selenium project.
+* [WD](https://github.com/admc/wd) ⭐ 1,520 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-13 - WebDriver/Selenium 2 node.js client.
 * [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 * [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
 * [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
@@ -44,7 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,375 |
 
 #### PHP
 
-* [Facebook WebDriver](https://github.com/facebook/php-webdriver) ⭐ 5,198 | 🐛 33 | 🌐 PHP | 📅 2026-09-25 - A PHP client for webdriver.
+* [Facebook WebDriver](https://github.com/facebook/php-webdriver) ⭐ 5,198 | 🐛 34 | 🌐 PHP | 📅 2026-09-25 - A PHP client for webdriver.
 * [Steward](https://github.com/lmc-eu/steward) ⭐ 223 | 🐛 20 | 🌐 PHP | 📅 2024-08-16 - A test runner integrating php-webdriver with PHPUnit.
 * [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) ⭐ 27 | 🐛 5 | 🌐 PHP | 📅 2017-03-15 - A tool for PHP developers to start their own Selenium server.
 
@@ -59,8 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,375 |
 
 #### Java
 
-* [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) ⭐ 2,691 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - Automatic management of Selenium WebDriver binaries.
-* [Selenide](https://github.com/codeborne/selenide) ⭐ 1,912 | 🐛 29 | 🌐 Java | 📅 2026-10-07 - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
+* [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) ⭐ 2,691 | 🐛 0 | 🌐 Java | 📅 2026-10-10 - Automatic management of Selenium WebDriver binaries.
+* [Selenide](https://github.com/codeborne/selenide) ⭐ 1,912 | 🐛 30 | 🌐 Java | 📅 2026-10-09 - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
 * [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) ⭐ 75 | 🐛 2 | 🌐 Java | 📅 2025-07-12 - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 * [Lightning](https://github.com/aerokube/lightning-java) ⭐ 31 | 🐛 8 | 🌐 Java | 📅 2023-05-11 - Lightweight and lightning fast WebDriver client.
 * [darcy](https://github.com/darcy-framework/darcy-webdriver) ⭐ 23 | 🐛 10 | 🌐 Java | 📅 2019-04-22 - Page object framework for structured, maintainable automation.
@@ -113,9 +113,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,375 |
 
 #### Desktop (browsers)
 
-* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,522 | 🐛 190 | 🌐 Java | 📅 2026-10-09 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,522 | 🐛 190 | 🌐 Java | 📅 2026-10-09 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,522 | 🐛 190 | 🌐 Java | 📅 2026-10-09 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,522 | 🐛 186 | 🌐 Java | 📅 2026-10-10 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,522 | 🐛 186 | 🌐 Java | 📅 2026-10-10 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,522 | 🐛 186 | 🌐 Java | 📅 2026-10-10 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 * [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,472 | 🐛 191 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
 * [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) ⭐ 266 | 🐛 78 | 📅 2026-10-08 - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 * [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
@@ -192,4 +192,4 @@ To the extent possible under law, [Christian Bromann](http://www.christian-broma
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
