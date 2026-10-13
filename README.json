@@ -19,11 +19,11 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T00:25:18Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-13T01:08:21Z",
+                    "open_issues": 187,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34532,
+                    "stars": 34541,
                     "topics": [
                       "dotnet",
                       "java",
@@ -141,7 +141,7 @@
                     "open_issues": 34,
                     "owner": "php-webdriver",
                     "repo": "php-webdriver",
-                    "stars": 5198,
+                    "stars": 5199,
                     "topics": [
                       "php-webdriver",
                       "selenium",
@@ -225,7 +225,7 @@
                     "open_issues": 55,
                     "owner": "mherrmann",
                     "repo": "helium",
-                    "stars": 8328,
+                    "stars": 8329,
                     "topics": [
                       "chrome",
                       "firefox",
@@ -327,11 +327,11 @@
                     "id": 32280638,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-11T12:06:53Z",
+                    "last_commit": "2026-10-12T17:43:08Z",
                     "open_issues": 0,
                     "owner": "bonigarcia",
                     "repo": "webdrivermanager",
-                    "stars": 2692,
+                    "stars": 2691,
                     "topics": [
                       "chromedriver",
                       "docker",
@@ -357,11 +357,11 @@
                     "id": 3376848,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T14:59:51Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-10-12T23:19:07Z",
+                    "open_issues": 29,
                     "owner": "selenide",
                     "repo": "selenide",
-                    "stars": 1911,
+                    "stars": 1912,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
@@ -674,7 +674,7 @@
                     "open_issues": 0,
                     "owner": "aerokube",
                     "repo": "selenoid",
-                    "stars": 2654,
+                    "stars": 2653,
                     "topics": [
                       "docker",
                       "grid",
@@ -704,7 +704,7 @@
                     "open_issues": 36,
                     "owner": "zalando",
                     "repo": "zalenium",
-                    "stars": 2361,
+                    "stars": 2360,
                     "topics": [
                       "browserstack",
                       "docker",
@@ -735,7 +735,7 @@
                     "open_issues": 35,
                     "owner": "elgalu",
                     "repo": "docker-selenium",
-                    "stars": 1413,
+                    "stars": 1412,
                     "topics": [
                       "chrome",
                       "docker-selenium",
@@ -823,7 +823,7 @@
                     "open_issues": 4,
                     "owner": "kubernetes",
                     "repo": "examples",
-                    "stars": 6788,
+                    "stars": 6805,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
@@ -948,11 +948,11 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T00:25:18Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-13T01:08:21Z",
+                    "open_issues": 187,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34532,
+                    "stars": 34541,
                     "topics": [
                       "dotnet",
                       "java",
@@ -978,11 +978,11 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T00:25:18Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-13T01:08:21Z",
+                    "open_issues": 187,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34532,
+                    "stars": 34541,
                     "topics": [
                       "dotnet",
                       "java",
@@ -1008,11 +1008,11 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T00:25:18Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-13T01:08:21Z",
+                    "open_issues": 187,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34532,
+                    "stars": 34541,
                     "topics": [
                       "dotnet",
                       "java",
@@ -1401,7 +1401,7 @@
                 "open_issues": 159,
                 "owner": "DeviceFarmer",
                 "repo": "stf",
-                "stars": 4596,
+                "stars": 4597,
                 "topics": [
                   "android",
                   "debugging",
@@ -1435,7 +1435,7 @@
                 "open_issues": 29,
                 "owner": "bda-research",
                 "repo": "node-crawler",
-                "stars": 6796,
+                "stars": 6797,
                 "topics": [
                   "cheerio",
                   "crawler",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:34:39.809Z",
+    "last_updated": "2026-10-13T03:07:19.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Selenium resources.",
@@ -1470,7 +1470,7 @@
       "open_issues": 9,
       "owner": "christian-bromann",
       "repo": "awesome-selenium",
-      "stars": 1133,
+      "stars": 1134,
       "topics": [
         "awesome",
         "awesome-list",
