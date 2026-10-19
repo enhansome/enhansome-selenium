@@ -2,7 +2,7 @@
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,976 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Resources
 
@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 |
 
 #### Javascript
 
-* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,555 | 🐛 196 | 🌐 Java | 📅 2026-10-17 - The official WebDriver JavaScript bindings from the Selenium project.
+* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,558 | 🐛 197 | 🌐 Java | 📅 2026-10-18 - The official WebDriver JavaScript bindings from the Selenium project.
 * [WD](https://github.com/admc/wd) ⭐ 1,520 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-13 - WebDriver/Selenium 2 node.js client.
 * [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 * [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -50,7 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 |
 
 #### Python
 
-* [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,326 | 🐛 55 | 🌐 Python | 📅 2026-08-10 - Helium makes Selenium easier and faster to use
+* [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,325 | 🐛 55 | 🌐 Python | 📅 2026-08-10 - Helium makes Selenium easier and faster to use
 * [Selene](https://github.com/yashaka/selene) ⭐ 732 | 🐛 125 | 🌐 Python | 📅 2026-09-09 - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 * [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) ⭐ 63 | 🐛 16 | 🌐 Python | 📅 2025-08-11 behavior driven testing with Selenium and Python.
 * [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
@@ -95,7 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 |
 
 #### Docker
 
-* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,660 | 🐛 95 | 🌐 Go | 📅 2026-10-15 - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,660 | 🐛 96 | 🌐 Go | 📅 2026-10-18 - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 * [Selenoid](https://github.com/aerokube/selenoid) ⚠️ Archived - A lightweight Selenium hub implementation launching browsers in Docker containers.
 * [zalando/zalenium](https://github.com/zalando/zalenium) ⚠️ Archived - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 * [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) ⚠️ Archived - Selenium in Docker with Chrome & Firefox plus video recording support.
@@ -104,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 |
 
 #### Kubernetes
 
-* [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) ⭐ 6,823 | 🐛 4 | 🌐 Shell | 📅 2026-03-03 - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
+* [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) ⭐ 6,825 | 🐛 4 | 🌐 Shell | 📅 2026-03-03 - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 * [Moon](https://github.com/aerokube/moon) ⭐ 281 | 🐛 84 | 🌐 HTML | 📅 2026-09-29 - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 * [Callisto](https://github.com/wrike/callisto) ⭐ 115 | 🐛 6 | 🌐 Python | 📅 2026-08-11 - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
 * [WebGrid](https://github.com/TilBlechschmidt/WebGrid) ⚠️ Archived - An open-source, decentralized, scalable and robust selenium-grid equivalent.
@@ -113,10 +113,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 |
 
 #### Desktop (browsers)
 
-* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,555 | 🐛 196 | 🌐 Java | 📅 2026-10-17 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,555 | 🐛 196 | 🌐 Java | 📅 2026-10-17 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,555 | 🐛 196 | 🌐 Java | 📅 2026-10-17 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
-* [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,470 | 🐛 191 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
+* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,558 | 🐛 197 | 🌐 Java | 📅 2026-10-18 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,558 | 🐛 197 | 🌐 Java | 📅 2026-10-18 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,558 | 🐛 197 | 🌐 Java | 📅 2026-10-18 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+* [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,471 | 🐛 191 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
 * [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) ⭐ 266 | 🐛 78 | 📅 2026-10-08 - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 * [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 * [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -166,7 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,497 |
 
 ### Device Farms
 
-* [OpenSTF](https://github.com/DeviceFarmer/stf) ⭐ 4,606 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-02 - A framework for running your own device farm, geared toward Android, but also iOS.
+* [OpenSTF](https://github.com/DeviceFarmer/stf) ⭐ 4,609 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-02 - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Web Scraping / Mining
 
@@ -192,4 +192,4 @@ To the extent possible under law, [Christian Bromann](http://www.christian-broma
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
