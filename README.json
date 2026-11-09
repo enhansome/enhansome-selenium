@@ -19,7 +19,7 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T00:16:31Z",
+                    "last_commit": "2026-11-09T00:16:41Z",
                     "open_issues": 191,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
@@ -81,7 +81,7 @@
                     "open_issues": 50,
                     "owner": "chriskite",
                     "repo": "anemone",
-                    "stars": 1603,
+                    "stars": 1602,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
@@ -102,7 +102,7 @@
                     "open_issues": 16,
                     "owner": "postmodern",
                     "repo": "spidr",
-                    "stars": 836,
+                    "stars": 835,
                     "topics": [
                       "crawler",
                       "ruby",
@@ -253,7 +253,7 @@
                     "id": 34106396,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T23:25:20Z",
+                    "last_commit": "2026-11-08T21:12:49Z",
                     "open_issues": 114,
                     "owner": "yashaka",
                     "repo": "selene",
@@ -331,7 +331,7 @@
                     "open_issues": 0,
                     "owner": "bonigarcia",
                     "repo": "webdrivermanager",
-                    "stars": 2692,
+                    "stars": 2691,
                     "topics": [
                       "chromedriver",
                       "docker",
@@ -636,7 +636,7 @@
                     "open_issues": 99,
                     "owner": "SeleniumHQ",
                     "repo": "docker-selenium",
-                    "stars": 8662,
+                    "stars": 8661,
                     "topics": [
                       "containerization",
                       "devops",
@@ -823,7 +823,7 @@
                     "open_issues": 3,
                     "owner": "kubernetes",
                     "repo": "examples",
-                    "stars": 6828,
+                    "stars": 6829,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:07.958Z"
@@ -948,7 +948,7 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T00:16:31Z",
+                    "last_commit": "2026-11-09T00:16:41Z",
                     "open_issues": 191,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
@@ -978,7 +978,7 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T00:16:31Z",
+                    "last_commit": "2026-11-09T00:16:41Z",
                     "open_issues": 191,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
@@ -1008,7 +1008,7 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T00:16:31Z",
+                    "last_commit": "2026-11-09T00:16:41Z",
                     "open_issues": 191,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
@@ -1397,11 +1397,11 @@
                 "id": 246332156,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T00:57:23Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-09T01:19:19Z",
+                "open_issues": 20,
                 "owner": "DeviceFarmer",
                 "repo": "stf",
-                "stars": 4648,
+                "stars": 4651,
                 "topics": [
                   "android",
                   "debugging",
@@ -1435,7 +1435,7 @@
                 "open_issues": 30,
                 "owner": "bda-research",
                 "repo": "node-crawler",
-                "stars": 6794,
+                "stars": 6793,
                 "topics": [
                   "cheerio",
                   "crawler",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:42:55.131Z",
+    "last_updated": "2026-11-09T01:50:43.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Selenium resources.",
