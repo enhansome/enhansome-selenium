@@ -2,7 +2,7 @@
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,997 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 | 🐛 104 | 📅 2026-09-02 list thing.
 
 ## Resources
 
@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,997 |
 
 #### Javascript
 
-* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,584 | 🐛 191 | 🌐 Java | 📅 2026-11-13 - The official WebDriver JavaScript bindings from the Selenium project.
+* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - The official WebDriver JavaScript bindings from the Selenium project.
 * [WD](https://github.com/admc/wd) ⭐ 1,520 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-13 - WebDriver/Selenium 2 node.js client.
 * [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 * [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -50,7 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,997 |
 
 #### Python
 
-* [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,334 | 🐛 55 | 🌐 Python | 📅 2026-10-22 - Helium makes Selenium easier and faster to use
+* [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,336 | 🐛 55 | 🌐 Python | 📅 2026-10-22 - Helium makes Selenium easier and faster to use
 * [Selene](https://github.com/yashaka/selene) ⭐ 735 | 🐛 114 | 🌐 Python | 📅 2026-11-08 - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 * [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) ⭐ 64 | 🐛 16 | 🌐 Python | 📅 2025-08-11 behavior driven testing with Selenium and Python.
 * [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
@@ -59,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,997 |
 
 #### Java
 
-* [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) ⭐ 2,692 | 🐛 1 | 🌐 Java | 📅 2026-11-12 - Automatic management of Selenium WebDriver binaries.
+* [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) ⭐ 2,692 | 🐛 1 | 🌐 Java | 📅 2026-11-13 - Automatic management of Selenium WebDriver binaries.
 * [Selenide](https://github.com/codeborne/selenide) ⭐ 1,915 | 🐛 25 | 🌐 Java | 📅 2026-11-11 - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
 * [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) ⭐ 75 | 🐛 2 | 🌐 Java | 📅 2025-07-12 - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 * [Lightning](https://github.com/aerokube/lightning-java) ⭐ 31 | 🐛 8 | 🌐 Java | 📅 2023-05-11 - Lightweight and lightning fast WebDriver client.
@@ -113,10 +113,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,997 |
 
 #### Desktop (browsers)
 
-* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,584 | 🐛 191 | 🌐 Java | 📅 2026-11-13 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,584 | 🐛 191 | 🌐 Java | 📅 2026-11-13 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,584 | 🐛 191 | 🌐 Java | 📅 2026-11-13 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
-* [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,479 | 🐛 192 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
+* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+* [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,478 | 🐛 192 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
 * [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) ⭐ 267 | 🐛 78 | 📅 2026-10-27 - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 * [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 * [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -166,7 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,997 |
 
 ### Device Farms
 
-* [OpenSTF](https://github.com/DeviceFarmer/stf) ⭐ 4,658 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-12 - A framework for running your own device farm, geared toward Android, but also iOS.
+* [OpenSTF](https://github.com/DeviceFarmer/stf) ⭐ 4,659 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-12 - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Web Scraping / Mining
 
@@ -192,4 +192,4 @@ To the extent possible under law, [Christian Bromann](http://www.christian-broma
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
