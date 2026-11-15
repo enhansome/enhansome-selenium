@@ -2,7 +2,7 @@
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,973 | 🐛 104 | 📅 2026-09-02 list thing.
 
 ## Resources
 
@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 |
 
 #### Javascript
 
-* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - The official WebDriver JavaScript bindings from the Selenium project.
+* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,589 | 🐛 181 | 🌐 Java | 📅 2026-11-15 - The official WebDriver JavaScript bindings from the Selenium project.
 * [WD](https://github.com/admc/wd) ⭐ 1,520 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-13 - WebDriver/Selenium 2 node.js client.
 * [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 * [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 |
 #### Ruby
 
 * [Anemone](https://github.com/chriskite/anemone) ⭐ 1,603 | 🐛 50 | 🌐 Ruby | 📅 2020-03-20 - Anemone web-spider framework.
-* [Spidr](https://github.com/postmodern/spidr) ⭐ 837 | 🐛 16 | 🌐 Ruby | 📅 2026-01-12 - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+* [Spidr](https://github.com/postmodern/spidr) ⭐ 836 | 🐛 16 | 🌐 Ruby | 📅 2026-01-12 - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 * [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 * [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
 * [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
@@ -44,14 +44,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 |
 
 #### PHP
 
-* [Facebook WebDriver](https://github.com/facebook/php-webdriver) ⭐ 5,194 | 🐛 34 | 🌐 PHP | 📅 2026-11-06 - A PHP client for webdriver.
+* [Facebook WebDriver](https://github.com/facebook/php-webdriver) ⭐ 5,193 | 🐛 34 | 🌐 PHP | 📅 2026-11-06 - A PHP client for webdriver.
 * [Steward](https://github.com/lmc-eu/steward) ⭐ 224 | 🐛 20 | 🌐 PHP | 📅 2024-08-16 - A test runner integrating php-webdriver with PHPUnit.
 * [Selenium Setup](https://github.com/bogdananton/Selenium-Setup) ⭐ 27 | 🐛 5 | 🌐 PHP | 📅 2017-03-15 - A tool for PHP developers to start their own Selenium server.
 
 #### Python
 
-* [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,336 | 🐛 55 | 🌐 Python | 📅 2026-10-22 - Helium makes Selenium easier and faster to use
-* [Selene](https://github.com/yashaka/selene) ⭐ 735 | 🐛 114 | 🌐 Python | 📅 2026-11-08 - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
+* [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,337 | 🐛 55 | 🌐 Python | 📅 2026-10-22 - Helium makes Selenium easier and faster to use
+* [Selene](https://github.com/yashaka/selene) ⭐ 736 | 🐛 114 | 🌐 Python | 📅 2026-11-08 - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
 * [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) ⭐ 64 | 🐛 16 | 🌐 Python | 📅 2025-08-11 behavior driven testing with Selenium and Python.
 * [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
 * [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
@@ -95,7 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 |
 
 #### Docker
 
-* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,663 | 🐛 101 | 🌐 Go | 📅 2026-11-07 - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) ⭐ 8,663 | 🐛 102 | 🌐 Go | 📅 2026-11-14 - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
 * [Selenoid](https://github.com/aerokube/selenoid) ⚠️ Archived - A lightweight Selenium hub implementation launching browsers in Docker containers.
 * [zalando/zalenium](https://github.com/zalando/zalenium) ⚠️ Archived - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 * [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) ⚠️ Archived - Selenium in Docker with Chrome & Firefox plus video recording support.
@@ -113,10 +113,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 |
 
 #### Desktop (browsers)
 
-* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
-* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,587 | 🐛 189 | 🌐 Java | 📅 2026-11-14 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
-* [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,478 | 🐛 192 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
+* [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) ⭐ 34,589 | 🐛 181 | 🌐 Java | 📅 2026-11-15 - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
+* [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) ⭐ 34,589 | 🐛 181 | 🌐 Java | 📅 2026-11-15 - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
+* [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) ⭐ 34,589 | 🐛 181 | 🌐 Java | 📅 2026-11-15 - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
+* [Geckodriver](https://github.com/mozilla/geckodriver) ⭐ 7,479 | 🐛 192 | 📅 2026-08-25 - Firefox driver (for FF > v48), supported with Selenium >= v3
 * [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) ⭐ 267 | 🐛 78 | 📅 2026-10-27 - OperaDriver is a vendor-supported WebDriver implementation developed by Opera Software and volunteers that implements WebDriver API for Opera.
 * [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 * [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -166,7 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,489 |
 
 ### Device Farms
 
-* [OpenSTF](https://github.com/DeviceFarmer/stf) ⭐ 4,659 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-12 - A framework for running your own device farm, geared toward Android, but also iOS.
+* [OpenSTF](https://github.com/DeviceFarmer/stf) ⭐ 4,660 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-12 - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Web Scraping / Mining
 
@@ -192,4 +192,4 @@ To the extent possible under law, [Christian Bromann](http://www.christian-broma
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
